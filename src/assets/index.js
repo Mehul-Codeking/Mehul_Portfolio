@@ -13,7 +13,7 @@ import git from "./tech/git.png";
 import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import reactjs from "./tech/reactjs.png";
-import python from "./tech/python.png";
+import python from "./tech/Python.png";
 import threejs from "./tech/three.png";
 import tensorflow from "./tech/tensorflow.png";
 import vulkan from "./tech/vulkan.png";
