@@ -16,7 +16,7 @@ import reactjs from "./tech/reactjs.png";
 import python from "./tech/Python.png";
 import threejs from "./tech/three.png";
 import tensorflow from "./tech/tensorflow.png";
-import vulkan from "./tech/vulkan.png";
+import vulkan from "./tech/Vulkan.png";
 import pytorch from "./tech/pytorch.png";
 import nginx from "./tech/nginx.png";
 import postgres from "./tech/postgresql.png";
